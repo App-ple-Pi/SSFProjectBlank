@@ -51,6 +51,9 @@ class MainActivity : AppCompatActivity() {
                 * radioBtn1이 체크되었다면 pr을 0으로 설정한다
                 * radioBtn2이 체크되었다면 pr을 1로 설정한다
                 * radioBtn3이 체크되었다면 pr을 2로 설정한다
+
+                * Hint. 체크가 되었는지 확인하기 위해,
+                * 변수명.isChecked 를 이용하도록 하자!
              */
 
             // TODO 09 : 위에서 설정한 Edittext의 변수를 아래에 넣어주세요
